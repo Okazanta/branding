@@ -28,8 +28,8 @@ That license does **NOT** cover the Okazanta name or the logo which are copyrigh
 
 If you are using the logo anywhere publically visible, please ensure that the colours are displayed correctly. The colours used in the logo are:
 
-* Light green - #050407
-* Darker green - #0081C5
+* Light green - #6fff00ff
+* Darker green - #2fac14ff
 
 ## Font
 
